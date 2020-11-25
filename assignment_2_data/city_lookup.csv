@@ -1,0 +1,542 @@
+city,country,latitude,longitude,country_english
+Malmö,Sverige,55.6052931,13.0001566,Sweden
+London,United Kingdom,51.5073219,-0.1276474,United Kingdom
+New York City,United States of America,40.7127281,-74.0060152,United States of America
+Frankfurt am Main,Deutschland,50.1106444,8.6820917,Germany
+Chicago,United States of America,41.8755616,-87.6244212,United States of America
+Hong Kong,China 中国,22.350627,114.1849161,China
+Shanghai,China 中国,31.2322758,121.4692071,China
+Gold Coast City,Australia,-28.0023731,153.4145987,Australia
+L'Hospitalet de Llobregat,España,41.3598601,2.0997927,Spain
+Tokyo,日本 (Japan),35.6828387,139.7594549,Japan
+Dubai,United Arab Emirates,25.0750095,55.18876088183319,United Arab Emirates
+San Francisco,United States of America,37.7790262,-122.4199061,United States of America
+Istanbul,Türkiye,41.0096334,28.9651646,Turkey
+Puteaux,France,48.8841522,2.2368863,France
+Cleveland,United States of America,41.5051613,-81.6934446,United States of America
+Warsaw,Polska,52.2319581,21.0067249,Poland
+Dallas,United States of America,32.7762719,-96.7968559,United States of America
+Moscow,Россия,55.7504461,37.6174943,Russia
+Barcelona,España,41.3828939,2.1774322,Spain
+Buenos Aires,Argentina,-34.6075682,-58.4370894,Argentina
+Pittsburgh,United States of America,40.4416941,-79.9900861,United States of America
+Courbevoie,France,48.8953328,2.2561602,France
+Detroit,United States of America,42.3315509,-83.0466403,United States of America
+Riyadh,Saudi Arabia / السعودية,24.638916,46.7160104,Saudi Arabia
+Beirut,لبنان  Lebanon,33.8959203,35.47843,Lebanon
+Hamburg,Deutschland,53.550341,10.000654,Germany
+Beijing,China 中国,40.190632,116.412144,China
+Calgary,Canada,51.0534234,-114.0625892,Canada
+Marseille,France,43.2961743,5.3699525,France
+Paris,France,48.8566969,2.3514616,France
+Saint Louis,United States of America,38.6268039,-90.1994097,United States of America
+Huzhou,China 中国,30.8942995,120.0851114,China
+Rotterdam,Nederland,51.9228958,4.4631727,Netherlands
+Seoul,대한민국,37.5666791,126.9782914,South Korea
+The Hague,Nederland,52.0799838,4.3113461,Netherlands
+Brno,Česká republika,49.1922443,16.6113382,Czech Republic
+Berlin,Deutschland,52.5015217,13.4025498,Germany
+Rio de Janeiro,Brasil,-22.9110137,-43.2093727,Brazil
+Bangkok,ประเทศไทย,13.7538929,100.8160803,Thailand
+Shenzhen,China 中国,22.555454,114.0543297,China
+Saint Petersburg,Россия,59.938732,30.316229,Russia
+Mumbai,India,18.9387711,72.8353355,India
+Louisville,United States of America,38.2542376,-85.759407,United States of America
+Mississauga,Canada,43.590338,-79.645729,Canada
+Kuala Lumpur,Malaysia,3.1516964,101.6942371,Malaysia
+Santiago de Chile,Chile,-33.4377968,-70.6504451,Chile
+Taipei,Taiwan,25.0375198,121.5636796,China
+Macau,China 中国,22.1757605,113.5514142,China
+Los Angeles,United States of America,34.0536909,-118.2427666,United States of America
+Vancouver,Canada,49.2608724,-123.1139529,Canada
+Singapore,Singapore,1.3408630000000001,103.83039182212079,Singapore
+Taguig,Philippines,14.5266254,121.074403,Philippines
+Stockholm,Sverige,59.3251172,18.0710935,Sweden
+Bonn,Deutschland,50.735851,7.10066,Germany
+Prague,Česká republika,50.0874654,14.4212535,Czech Republic
+Tysons,United States of America,38.918592,-77.2314723,United States of America
+Columbus,United States of America,39.9622601,-83.0007065,United States of America
+Munich,Deutschland,48.1371079,11.5753822,Germany
+Las Vegas,United States of America,36.1672559,-115.1485163,United States of America
+Philadelphia,United States of America,39.9527237,-75.1635262,United States of America
+Milwaukee,United States of America,43.0349931,-87.922497,United States of America
+Minneapolis,United States of America,44.9772995,-93.2654692,United States of America
+Da Nang,Việt Nam,16.068,108.212,Vietnam
+Vienna,Österreich,48.2083537,16.3725042,Austria
+Melbourne,Australia,-37.8142176,144.9631608,Australia
+Milan,Italia,45.4668,9.1905,Italy
+Miami,United States of America,25.7742658,-80.1936589,United States of America
+Kaohsiung,Taiwan,22.6203348,120.3120375,China
+Buffalo,United States of America,42.8867166,-78.8783922,United States of America
+Tianjin,China 中国,39.3032619,117.4163641,China
+Sofia,Madagascar,-15.2538402,48.2562163,Madagascar
+Oakbrook Terrace,United States of America,41.8500302,-87.9645077,United States of America
+St. Petersburg,Россия,59.938732,30.316229,Russia
+San Antonio,United States of America,29.4246002,-98.4951405,United States of America
+Atlanta,United States of America,33.7490987,-84.3901849,United States of America
+Mar del Plata,Argentina,-37.9977225,-57.5482703,Argentina
+Suzhou,China 中国,31.3016935,120.5810725,China
+Toronto,Canada,43.6534817,-79.3839347,Canada
+Tampa,United States of America,27.9477595,-82.458444,United States of America
+Madrid,España,40.4167047,-3.7035825,Spain
+Brisbane,Australia,-27.4689682,153.0234991,Australia
+Nanterre,France,48.8924273,2.2071267,France
+Abu Dhabi,United Arab Emirates,24.4747961,54.3705762,United Arab Emirates
+Lyon,France,45.7578137,4.8320114,France
+Riga,Latvija,56.9493977,24.1051846,Latvia
+Amiens,France,49.8941708,2.2956951,France
+Sydney,Australia,-33.8548157,151.2164539,Australia
+Nagoya,日本 (Japan),35.1851045,136.8998438,Japan
+Montreal,Canada,45.4972159,-73.6103642,Canada
+Issy-les-Moulineaux,France,48.8250508,2.273457,France
+Sarajevo,Bosna i Hercegovina,43.8519774,18.3866868,Bosnia and Herzegovina
+Bratislava,Slovensko,48.1516988,17.1093063,Slovenia
+Nuremberg,Deutschland,49.453872,11.077298,Germany
+Benidorm,España,38.5406255,-0.1290929,Spain
+Baltimore,United States of America,39.2908816,-76.610759,United States of America
+Mexico City,México,19.4326296,-99.1331785,Mexico
+Augsburg,Deutschland,48.3668041,10.8986971,Germany
+Liverpool,United Kingdom,53.407154,-2.991665,United Kingdom
+Providence,United States of America,41.8239891,-71.4128343,United States of America
+Cologne,None,50.938361,6.959974,None
+Dalian,China 中国,38.9181714,121.6282945,China
+Charlotte,United States of America,35.2272,-80.843083,United States of America
+Houston,United States of America,29.7589382,-95.3676974,United States of America
+Leipzig,Deutschland,51.3406321,12.3747329,Germany
+Pasig,Philippines,14.5605501,121.0764246,Philippines
+Jena,Deutschland,50.9281717,11.5879359,Germany
+Belgrade,Србија (Serbia),44.8178131,20.4568974,Serbia
+Boston,United States of America,42.3602534,-71.0582912,United States of America
+Ostermundigen,Switzerland,46.9582779,7.4911242,Switzerland
+Basel,Switzerland,47.5581077,7.5878261,Switzerland
+Seattle,United States of America,47.6038321,-122.3300624,United States of America
+Doha,قطر Qatar,25.2856329,51.5264162,Qatar
+Sunny Isles Beach,United States of America,25.939003,-80.12553387219643,United States of America
+Guangzhou,China 中国,23.1301964,113.2592945,China
+Xiamen,China 中国,24.4801069,118.0853479,China
+Jeddah,Saudi Arabia / السعودية,21.5810088,39.1653612,Saudi Arabia
+Hartford,United States of America,41.7655582,-72.69061276146614,United States of America
+Jersey City,United States of America,40.7281575,-74.0776417,United States of America
+Lincoln,United States of America,40.8088861,-96.7077751,United States of America
+Jacksonville,United States of America,30.3321838,-81.655651,United States of America
+Baton Rouge,United States of America,30.4459596,-91.18738,United States of America
+Chengdu,China 中国,30.6624205,104.0633219,China
+Auckland,New Zealand,-36.852095,174.7631803,New Zealand
+Düsseldorf,Deutschland,51.2254018,6.7763137,Germany
+Valencia,España,39.4697065,-0.3763353,Spain
+Nairobi,Kenya,-1.2832533,36.8172449,Kenya
+Leverkusen,Deutschland,51.0324743,6.9881194,Germany
+Sandnes,Norge,58.8517825,5.7369907,Norway
+Hanoi,Việt Nam,21.0294498,105.8544441,Vietnam
+Kyiv,Україна,50.4500336,30.5241361,Ukraine
+Tallinn,Eesti,59.4372155,24.7453688,Estonia
+Mulhouse,France,47.7467,7.3389275,France
+Offenbach am Main,Deutschland,50.1055002,8.7610698,Germany
+Turin,Italia,45.0677551,7.6824892,Italy
+Leeuwarden,Nederland,53.2005936,5.7918548,Netherlands
+Rochester,United States of America,43.157285,-77.615214,United States of America
+Cape Town,South Africa,-33.928992,18.417396,South Africa
+Luxembourg,Lëtzebuerg,49.8158683,6.1296751,Luxembourg
+Brussels,België - Belgique - Belgien,50.8465573,4.351697,Belgium
+Birmingham,United Kingdom,52.4796992,-1.9026911,United Kingdom
+Yokohama,日本 (Japan),35.444991,139.636768,Japan
+Bologna,Italia,44.4936714,11.3430347,Italy
+Austin,United States of America,30.2711286,-97.7436995,United States of America
+Denver,United States of America,39.7392364,-104.9848623,United States of America
+Tulsa,United States of America,36.1556805,-95.9929113,United States of America
+Essen,Deutschland,51.4582235,7.0158171,Germany
+Amsterdam,Nederland,52.3727598,4.8936041,Netherlands
+Makati,Philippines,14.5568853,121.023532,Philippines
+Newark,United States of America,40.735657,-74.1723667,United States of America
+Mandaluyong,Philippines,14.5777807,121.0332295,Philippines
+Osaka,日本 (Japan),34.6198813,135.490357,Japan
+Little Rock,United States of America,34.7464809,-92.2895948,United States of America
+Chongqing,China 中国,29.5647398,106.5478767,China
+Manchester,United Kingdom,53.4794892,-2.2451148,United Kingdom
+Akron,United States of America,41.083064,-81.518485,United States of America
+Helsinki,Suomi,60.1674098,24.9425769,Suomi
+Grozny,Россия,43.3197031,45.6934308,Russia
+Mobile,United States of America,30.6943566,-88.0430541,United States of America
+New Orleans,United States of America,29.9499323,-90.0701156,United States of America
+Richmond,United States of America,37.5385087,-77.43428,United States of America
+Daytona Beach Shores,United States of America,29.1760933,-80.9828323,United States of America
+Dunwoody,United States of America,33.9483649,-84.334963,United States of America
+Kuwait City,Kuwait / الكويت,29.3797091,47.9735629,Kuwait
+Southfield,United States of America,42.4733689,-83.2218731,United States of America
+Cincinnati,United States of America,39.1014537,-84.5124602,United States of America
+Kansas City,United States of America,39.100105,-94.5781416,United States of America
+Atlantic City,United States of America,39.3642852,-74.4229351,United States of America
+Camden,United States of America,39.9448402,-75.1198911,United States of America
+Phoenix,United States of America,33.4484367,-112.0741417,United States of America
+Manama,البحرين,26.2235041,50.5822436,Bahrain
+Ramat Gan,ישראל,32.0686867,34.8246812,Israel
+Tel Aviv,ישראל,32.0804808,34.7805274,Israel
+Albany,United States of America,42.6511674,-73.754968,United States of America
+Tempe,United States of America,33.4255056,-111.9400125,United States of America
+Gothenburg,Sverige,57.7072326,11.9670171,Sweden
+Nashville,United States of America,36.1622296,-86.7743531,United States of America
+Montville,France,49.5479845,1.0750949,France
+Ghent,België - Belgique - Belgien,51.0538286,3.7250121,Belgium
+Toulouse,France,43.6044622,1.4442469,France
+Memphis,United States of America,35.1490215,-90.0516285,United States of America
+Batumi,Georgia / საქართველო,41.6509502,41.6360085,Georgia
+Oklahoma City,United States of America,35.4729886,-97.5170536,United States of America
+St. Paul,United States of America,44.9504037,-93.1015026,United States of America
+Bucharest,România,44.4361414,26.1027202,Romania
+Sevilla,España,37.3886303,-5.9953403,Spain
+Klaipeda,Lietuva,55.7127529,21.1350469,Lithuania
+Portsmouth,United Kingdom,50.8036831,-1.075614,United Kingdom
+Quezon City,Philippines,14.6509905,121.0486155,Philippines
+Timmendorfer Strand,Deutschland,53.9981853,10.7799016,Germany
+Cairo,Egypt / مصر,30.048819,31.243666,Egypt
+Clayton,United States of America,33.5204959,-84.3591713,United States of America
+Bremerhaven,Deutschland,53.5522264,8.5865509,Germany
+Miami Beach,United States of America,25.7929198,-80.1353006,United States of America
+Genoa,Italia,44.40726,8.9338624,Italy
+Lima,Peru,-12.0621065,-77.0365256,Peru
+Springfield,United States of America,39.7990175,-89.6439575,United States of America
+Wuhan,China 中国,30.5951051,114.2999353,China
+Haikou,China 中国,20.0462328,110.1956502,China
+San Andrés Cholula,México,19.022046449999998,-98.28726612234529,Mexico
+Shreveport,United States of America,32.5221828,-93.7651944,United States of America
+Alexandria,Egypt / مصر,31.199004,29.894378,Egypt
+Naples,Italia,40.8359336,14.2487826,Italy
+Liège,België - Belgique - Belgien,50.6451381,5.5734203,Belgium
+Winston-Salem,United States of America,36.0998131,-80.2440518,United States of America
+Lisbon,Portugal,38.7077507,-9.1365919,Portugal
+Jakarta,Indonesia,-6.1753942,106.827183,Indonesia
+Bethlehem,Palestinian Territory,31.7043556,35.2061876,Palestinian Territory
+Mannheim,Deutschland,49.489591,8.467236,Germany
+Zhuhai,China 中国,22.2305196,113.5462439,China
+Frankfort,Deutschland,50.1106444,8.6820917,Germany
+Putrajaya,Malaysia,2.9033629,101.6800581,Malaysia
+Sacramento,United States of America,38.5815719,-121.4943996,United States of America
+Wrocław,Polska,51.1089776,17.0326689,Poland
+La Vila Joiosa,España,38.5064035,-0.2309882,Spain
+San Diego,United States of America,32.7174209,-117.1627714,United States of America
+Bellevue,United States of America,47.6144219,-122.1923372,United States of America
+Lille,France,50.6365654,3.0635282,France
+Fort Lee,United States of America,40.8509333,-73.9701382,United States of America
+Almere,Nederland,52.44175125,5.2092943104327585,Netherlands
+Ho Chi Minh City,Việt Nam,10.7758439,106.7017555,Vietnam
+Toledo,España,39.8560679,-4.0239568,Spain
+Johannesburg,South Africa,-26.205,28.049722,South Africa
+Wenzhou,China 中国,27.9958689,120.6915792,China
+Salford,United Kingdom,53.4877463,-2.2891921,United Kingdom
+Oslo,Norge,59.97239745,10.775729194051895,Norway
+nan,Italia,46.3144754,11.0480288,Italy
+Lübeck,Deutschland,53.866444,10.684738,Germany
+Ottawa,Canada,45.421106,-75.690308,Canada
+Itasca,United States of America,47.4968343,-93.6225663,United States of America
+Perth,Australia,-31.9527121,115.8604796,Australia
+Nantes,France,47.2186371,-1.5541362,France
+Guttenberg,United States of America,42.7858231,-91.0995735,United States of America
+Eindhoven,Nederland,51.4392648,5.478633,Netherlands
+Fort Wayne,United States of America,41.0799898,-85.1386015,United States of America
+Des Moines,United States of America,41.5910641,-93.6037149,United States of America
+Portland,United States of America,45.5202471,-122.6741949,United States of America
+Indianapolis,United States of America,39.7683331,-86.1583502,United States of America
+Dayton,United States of America,39.7589478,-84.1916069,United States of America
+Hamilton,Canada,43.2560802,-79.8728583,Canada
+Bailey's Crossroads,United States of America,38.8503902,-77.1297016,United States of America
+Saint-Denis,France,48.935773,2.3580232,France
+Bat Yam,ישראל,32.0154565,34.7505283,Israel
+Monaco,Monaco,43.7323492,7.4276832,Monaco
+Zapopan,México,20.7211203,-103.3913671,Mexico
+Omaha,United States of America,41.2587459,-95.9383758,United States of America
+White Plains,United States of America,41.0339862,-73.7629097,United States of America
+Hallandale Beach,United States of America,25.985600599999998,-80.13999671464335,United States of America
+Winnipeg,Canada,49.8955367,-97.1384584,Canada
+Vilnius,Lietuva,54.6870458,25.2829111,Lithuania
+Shenyang,China 中国,41.6744574,123.4582891,China
+Changsha,China 中国,28.2302056,112.9335861,China
+Montevideo,Uruguay,-34.9059039,-56.1913569,Uruguay
+Tilburg,Nederland,51.55847,5.083076,Netherlands
+Orlando,United States of America,28.5421109,-81.3790304,United States of America
+Saitama,日本 (Japan),35.8616402,139.6457957,Japan
+Manila,Philippines,14.5907332,120.9809674,Philippines
+Bristol,United Kingdom,51.4538022,-2.5972985,United Kingdom
+South Bend,United States of America,41.6833813,-86.2500066,United States of America
+Riviera Beach,United States of America,26.7753405,-80.0580969,United States of America
+Troy,Türkiye,39.957373950000004,26.238017461011644,Turkey
+Krasnoyarsk,Россия,63.3233807,97.0979974,Russia
+São Paulo,Brasil,-23.5506507,-46.6333824,Brazil
+Tehran,ایران,35.7006177,51.4013785,Iran
+Panama City,Panama,8.9714493,-79.5341802,Panama
+Casablanca,Maroc,33.5675527,-7.618756606822727,Morocco
+Mecca,Saudi Arabia / السعودية,21.420847,39.826869,Saudi Arabia
+Hollywood,United States of America,34.0980031,-118.329523,United States of America
+Izumisano,日本 (Japan),34.394629,135.322725,Japan
+Montgomery,United States of America,32.3669656,-86.3006485,United States of America
+Leuven,België - Belgique - Belgien,50.879202,4.7011675,Belgium
+Neuss,Deutschland,51.1981778,6.6916476,Germany
+Sendai,日本 (Japan),38.2677554,140.8691498,Japan
+Stuttgart,Deutschland,48.7784485,9.1800132,Germany
+San Juan,United States of America,18.465299,-66.116666,United States of America
+Sandton,South Africa,-26.0682406,28.0479844,South Africa
+Pretoria,South Africa,-25.7459374,28.1879444,South Africa
+Chelyabinsk,Россия,55.1598408,61.4025547,Russia
+A Coruña,España,43.3712091,-8.3958768,Spain
+Midland,United States of America,31.9973662,-102.0779482,United States of America
+Grand Rapids,United States of America,42.9632405,-85.6678639,United States of America
+Wilmington,United States of America,39.7459468,-75.546589,United States of America
+Arlington,United States of America,32.701938999999996,-97.10562379033699,United States of America
+Ludwigshafen,Deutschland,49.4704113,8.4381568,Germany
+Herlev,Danmark,55.733700600000006,12.429451266362797,Denmark
+Cesenatico,Italia,44.1999283,12.3969692,Italy
+San Jose,United States of America,37.3361905,-121.8905833,United States of America
+Albuquerque,United States of America,35.0841034,-106.6509851,United States of America
+Stamford,United States of America,41.0534302,-73.5387341,United States of America
+Nanjing,China 中国,32.0609736,118.7916458,China
+Glendale,United States of America,34.1469416,-118.2478471,United States of America
+Maebashi,日本 (Japan),36.3893418,139.0632826,Japan
+Biloxi,United States of America,30.374673,-88.84594333482862,United States of America
+Nanning,China 中国,22.8193063,108.3627211,China
+Ningbo,China 中国,29.8622194,121.6203873,China
+Santo Domingo,República Dominicana,18.4801972,-69.942111,Dominican Republic
+New Haven,United States of America,41.3082138,-72.9250518,United States of America
+Niagara Falls,United States of America,43.08436,-79.0614686,United States of America
+Aubervilliers,France,48.9146078,2.3821895,France
+Windsor,United Kingdom,51.48379805,-0.6041397427111339,United Kingdom
+Busan,대한민국,35.1799528,129.0752365,South Korea
+Sheffield,United Kingdom,53.3806626,-1.4702278,United Kingdom
+Monterrey,México,25.6802019,-100.3152586,Mexico
+Bogotá,Colombia,4.59808,-74.0760439,Colombia
+Plovdiv,България,42.1418541,24.7499297,Bulgaria
+Durham,United States of America,35.996653,-78.9018053,United States of America
+Athens,Ελλάδα,37.9839412,23.7283052,Greece
+Krasnogorsk,Россия,55.821744,37.3404142,Russia
+São Bernardo do Campo,Brasil,-23.7080345,-46.5506747,Brazil
+Dnipropetrovsk,Україна,48.4680221,35.0417711,Ukraine
+Enschede,Nederland,52.22336325,6.870595664097989,Netherlands
+Sakura,日本 (Japan),35.7234619,140.2240158,Japan
+Murcia,España,37.9923795,-1.1305431,Spain
+Tampere,Suomi,61.4980214,23.7603118,Suomi
+Hiroshima,日本 (Japan),34.3916058,132.4518156,Japan
+Recife,Brasil,-8.0584933,-34.8848193,Brazil
+Daegu,대한민국,35.8713,128.6018,South Korea
+Kobe,日本 (Japan),34.6932379,135.1943764,Japan
+Chiba,日本 (Japan),35.609985,140.118126,Japan
+Khanty-Mansiysk,Россия,61.00346,69.019157,Russia
+Dongguan,China 中国,23.0444712,113.7465512,China
+Kolkata,India,22.54541245,88.3567751581234,India
+Sapporo,日本 (Japan),43.061936,141.3542924,Japan
+Yekaterinburg,Россия,56.839104,60.60825,Russia
+Danderyd,Sverige,59.4018072,18.06192263749154,Sweden
+Porto Alegre,Brasil,-30.0324999,-51.2303767,Brazil
+Jinan,China 中国,36.6507007,117.1140042,China
+Hangzhou,China 中国,30.2489634,120.2052342,China
+Ajman,United Arab Emirates,25.4037872,55.52628406412467,United Arab Emirates
+Foshan,China 中国,23.0247687,113.1146335,China
+Gatineau,Canada,45.4283596,-75.7106204,Canada
+Fort Lauderdale,United States of America,26.1223084,-80.1433786,United States of America
+Burbank,United States of America,34.1816482,-118.3258554,United States of America
+Honolulu,United States of America,21.304547,-157.8556764,United States of America
+Baku,Azerbaijan,40.3754434,49.8326748,Azerbaijan
+Toyonaka,日本 (Japan),34.7862025,135.4737093,Japan
+Colombo,Sri Lanka,6.9349969,79.8538463,Sri Lanka
+Edmonton,Canada,53.535411,-113.507996,Canada
+Dublin,Ireland,53.3497645,-6.2602732,Ireland
+Oeiras,Portugal,38.7124971,-9.271300382407272,Portugal
+Ras al-Khaimah,United Arab Emirates,25.74436875,55.91575410354658,United Arab Emirates
+New Taipei City,Taiwan,25.011997,121.4656619,China
+Oviedo,España,43.3533424,-5.879514339526834,Spain
+Astana,Kazakhstan,51.1282205,71.4306682,Kazakhstan
+Acapulco,México,16.8680495,-99.8940182,Mexico
+Kawasaki,日本 (Japan),35.5305307,139.7028012,Japan
+Burnaby,Canada,49.2433804,-122.9725459,Canada
+Liuzhou,China 中国,25.0009993,109.3414252,China
+San Pedro Garza García,México,25.65271255,-100.37223790945575,Mexico
+Pattaya,ประเทศไทย,12.931941,100.9009534,Thailand
+Natal,Brasil,-5.805398,-35.2080905,Brazil
+Gaza,Palestinian Territory,31.4331663,34.3779285,Palestinian Territory
+Addis Ababa,Ethiopia,9.0,38.75,Ethiopia
+Maringá,Brasil,-23.425269,-51.9382078,Brazil
+Kunming,China 中国,24.8843019,102.8324209,China
+Inazawa,日本 (Japan),35.240484,136.758964,Japan
+Coquitlam,Canada,49.2842958,-122.793281,Canada
+Incheon,대한민국,37.456,126.7052,South Korea
+Donetsk,Україна,48.0158753,37.8013407,Ukraine
+Caracas,Venezuela,10.506098,-66.9146017,Venezuela
+Virginia Beach,United States of America,36.8529841,-75.9774183,United States of America
+Salvador,El Salvador,13.8000382,-88.9140683,El Salvador
+Tucson,United States of America,32.2228765,-110.9748477,United States of America
+Barueri,Brasil,-23.5112184,-46.8764612,Brazil
+Sakai,日本 (Japan),34.529124,135.50156,Japan
+Sharjah,United Arab Emirates,25.2311534,54.21900831355923,United Arab Emirates
+Toyohashi,日本 (Japan),34.769123,137.391461,Japan
+Solna,Sverige,59.361367,18.0013693,Sweden
+Fuzhou,China 中国,27.9511188,116.3530413,China
+Xi'an,China 中国,34.3468421,108.9365887,China
+Nanchang,China 中国,28.687547,115.8540042,China
+Harare,Zimbabwe,-17.831773,31.045686,Zimbabwe
+Elizabeth,United States of America,40.6639916,-74.2107006,United States of America
+Tangshan,China 中国,39.6295799,118.1739275,China
+Jabalpur,India,23.1608938,79.9497702,India
+Utrecht,Nederland,52.0949753,5.109708,Netherlands
+Bnei Brak,ישראל,32.0873899,34.8324376,Israel
+Zhengzhou,China 中国,34.7591877,113.6524076,China
+Thessaloniki,Ελλάδα,40.6403167,22.9352716,Greece
+Hat Yai,ประเทศไทย,7.0026257,100.4577414,Thailand
+Durban,South Africa,-29.861825,31.009909,South Africa
+Wuxi,China 中国,31.4933074,120.3074357,China
+Fort Myers,United States of America,26.640628,-81.8723084,United States of America
+Santos,Brasil,-23.960833,-46.333889,Brazil
+Bucheon,대한민국,37.5014422,126.7660139,South Korea
+Belo Horizonte,Brasil,-19.9227318,-43.9450948,Brazil
+Pompano Beach,United States of America,26.2378597,-80.1247667,United States of America
+Heerlen,Nederland,50.87627725,5.982795215474173,Netherlands
+Asunción,Paraguay,-25.2800459,-57.6343814,Paraguay
+Linz,Österreich,48.3059078,14.286198,Austria
+Sagamihara,日本 (Japan),35.56559,139.236215,Japan
+Karachi,پاکستان,24.8667795,67.0311286,Pakistan
+Yonkers,United States of America,40.9312099,-73.8987469,United States of America
+Henderson,United States of America,32.182598,-95.7893178,United States of America
+North Sydney,Australia,-33.8354519,151.2083011,Australia
+Fujairah,United Arab Emirates,25.1212273,56.33403414986288,United Arab Emirates
+Santoshpur,India,22.5240566,88.2710655,India
+Balneário Camboriú,Brasil,-26.9924395,-48.6339782,Brazil
+Fort Worth,United States of America,32.753177,-97.3327459,United States of America
+Leeds,United Kingdom,53.7974185,-1.5437941,United Kingdom
+Zhongshan,China 中国,22.5213807,113.3656141,China
+Yantai,China 中国,37.461928,121.4425255,China
+Zhenjiang,China 中国,32.1901111,119.4200584,China
+Raleigh,United States of America,35.7803977,-78.6390989,United States of America
+Norfolk,United Kingdom,52.666667,1.0,United Kingdom
+Tirana,Shqipëria,41.3268733,19.8187913,Albania
+New Rochelle,United States of America,40.9115386,-73.7826363,United States of America
+Bangalore,India,12.9791198,77.5912997,India
+Jaynagar,India,26.5881,86.1399,India
+Muntinlupa,Philippines,14.3940614,121.0410436,Philippines
+Takapuna,New Zealand,-36.7878213,174.7729913,New Zealand
+Salt Lake City,United States of America,40.7596198,-111.8867975,United States of America
+Seongnam,대한민국,37.4201556,127.1262092,South Korea
+Reno,United States of America,39.5261206,-119.8126581,United States of America
+Levallois-Perret,France,48.892956,2.2881683,France
+Harbin,China 中国,45.7988273,126.5303997,China
+Belém,Brasil,-1.45056,-48.4682453,Brazil
+Novosibirsk,Россия,55.0282171,82.9234509,Russia
+Syracuse,Italia,37.0646139,15.2907196,Italy
+Huizhou,China 中国,23.1060862,114.4141105,China
+Wellington,New Zealand,-41.2887953,174.7772114,New Zealand
+Brookhaven,United States of America,31.5790588,-90.4406506,United States of America
+Ürümqi,China 中国,43.419754,87.319461,China
+Islamabad,پاکستان,33.6938118,73.0651511,Pakistan
+Tashkent,Uzbekistan,41.3123363,69.2787079,Uzbekistan
+Krasnodar,Россия,45.0352566,38.9764814,Russia
+Pyongyang,북조선,39.0356703,125.73800320300609,North Korea
+Pasaia,España,43.3239952,-1.9200587,Spain
+Shaoxing,China 中国,29.9992425,120.576854,China
+Guiyang,China 中国,26.6499922,106.6246178,China
+Qingdao,China 中国,36.0638034,120.3781372,China
+Oakland,United States of America,37.8044557,-122.2713563,United States of America
+Samsun,Türkiye,41.2303557,35.9683338,Turkey
+Galveston,United States of America,29.3872254,-94.992736,United States of America
+Hwaseong,대한민국,37.1994653,126.8312632,South Korea
+Ciudad Victoria,México,23.7389846,-99.1441352,Mexico
+Minsk,Беларусь,53.902334,27.5618791,Belarus
+Boulogne-Billancourt,France,48.8356649,2.240206,France
+Quanzhou,China 中国,24.8755492,118.6723605,China
+Nova Lima,Brasil,-19.9854089,-43.8470691,Brazil
+Hefei,China 中国,31.8228094,117.2218033,China
+Surrey,United Kingdom,51.2715316,-0.3414523511290909,United Kingdom
+Poznań,Polska,52.4082663,16.9335199,Poland
+Aventura,United States of America,25.953257,-80.1366459706593,United States of America
+Borås,Sverige,57.7210839,12.9407407,Sweden
+Santa Ana,United States of America,33.7494951,-117.8732213,United States of America
+Johor Bahru,Malaysia,1.4953041,103.7550839,Malaysia
+João Pessoa,Brasil,-7.1215981,-34.882028,Brazil
+Xuzhou,China 中国,34.2066591,117.278286,China
+Lahore,پاکستان,31.5656822,74.3141829,Pakistan
+Nantong,China 中国,31.9827896,120.8904588,China
+Budapest,Magyarország,47.48138955,19.14607278448202,Hungary
+Beihai,China 中国,21.4845804,109.1164835,China
+Cartagena,España,37.6267868,-1.0006184,Spain
+Lexington,United States of America,38.0464066,-84.4970393,United States of America
+Östersund,Sverige,63.1793655,14.6357061,Sweden
+Rosario,Argentina,-32.9595004,-60.6615415,Argentina
+Goiânia,Brasil,-16.680882,-49.2532691,Brazil
+Abuja,Nigeria,9.0643305,7.4892974,Nigeria
+Izumiotsu,日本 (Japan),34.506612,135.408793,Japan
+Huntsville,United States of America,34.729847,-86.5859011,United States of America
+Samara,Россия,53.198627,50.113987,Russia
+The Woodlands,United States of America,30.1734194,-95.504686,United States of America
+Sliema,Malta,35.9127609,14.5020708,Malta
+Colwood,Canada,48.4234135,-123.4939645,Canada
+Atlantic Beach,United States of America,40.5889936,-73.7290207,United States of America
+Lagos,Nigeria,6.4550575,3.3941795,Nigeria
+Adelaide,Australia,-34.9281805,138.5999312,Australia
+Lanzhou,China 中国,36.0620781,103.8318566,China
+Kamogawa,日本 (Japan),35.1140584,140.098692,Japan
+Londrina,Brasil,-23.3112878,-51.1595023,Brazil
+Goyang,대한민국,37.6581862,126.8319452,South Korea
+Tangerang,Indonesia,-6.1760311,106.6384468,Indonesia
+Ankara,Türkiye,39.9207774,32.854067,Turkey
+Høje-Taastrup,Danmark,55.656548799999996,12.243321024652472,Denmark
+Bilbao,España,43.2630051,-2.9349915,Spain
+Greensboro,United States of America,36.0726355,-79.7919754,United States of America
+Nicosia,Κύπρος,35.1739302,33.364726,Cyprus
+Limassol,Κύπρος,34.6852901,33.0332657,Cyprus
+Aholming,Deutschland,48.7350726,12.9119176,Germany
+Gaziantep,Türkiye,37.0611756,37.3793085,Turkey
+El Segundo,United States of America,33.917028,-118.4156337,United States of America
+Malindi,Kenya,-3.2165987,40.1165933,Kenya
+Umhlanga,South Africa,-31.4642608,27.213629,South Africa
+Brummana,لبنان  Lebanon,33.8807272,35.62253036817684,Lebanon
+Yuxi,China 中国,28.5698848,102.6350839,China
+Montreuil,France,50.4638918,1.7631125,France
+Haifa,ישראל,32.8191218,34.9983856,Israel
+Guadalajara,México,20.6720375,-103.3383962,Mexico
+Fukuoka,日本 (Japan),33.6251241,130.6180016,Japan
+Hamamatsu,日本 (Japan),34.7109786,137.7259431,Japan
+Zaragoza,España,41.6521342,-0.8809428,Spain
+Málaga,España,36.7213028,-4.4216366,Spain
+Leicester,United Kingdom,52.6361398,-1.1330789,United Kingdom
+Glasgow,United Kingdom,55.8609825,-4.2488787,United Kingdom
+Córdoba,España,37.8845813,-4.7760138,Spain
+Suita,日本 (Japan),34.764884,135.51735,Japan
+Skopje,Македонија,41.9960924,21.4316495,Macedonia
+Shchyolkovo,Россия,55.9206499,37.9915576,Russia
+Myrtle Beach,United States of America,33.6956461,-78.8900409,United States of America
+Katowice,Polska,50.2598987,19.0215852,Poland
+Kópavogur,Ísland,64.0280441,-21.686270442142405,Ísland
+Hirakata,日本 (Japan),34.818215,135.659225,Japan
+Waimalu,United States of America,21.403347500000002,-157.93406895723064,United States of America
+Taiyuan,China 中国,37.870009,112.5452739,China
+Evanston,United States of America,42.0447388,-87.6930459,United States of America
+Novo Hamburgo,Brasil,-29.6905705,-51.1429035,Brazil
+Orange Beach,United States of America,30.28286855,-87.6241949351729,United States of America
+Konya,Türkiye,37.8719963,32.4844015,Turkey
+Jeongseon-gun,대한민국,37.3806081,128.6608785,South Korea
+Alicante,España,38.353738,-0.4901846,Spain
+Spijkenisse,Nederland,51.84342795,4.335329596057278,Netherlands
+South Padre Island,United States of America,26.1036887,-97.1646938,United States of America
+Kitakyushu,日本 (Japan),33.8829996,130.8749015,Japan
+Kota Kinabalu,Malaysia,5.9780066,116.0728988,Malaysia
+Ostend,België - Belgique - Belgien,51.2258565,2.919496,Belgium
+Amman,Jordan / الأُرْدُن,31.9515694,35.9239625,Jordan
+Abidjan,Côte d'Ivoire,5.4091179,-4.0422099,Côte d'Ivoire
+Barakaldo,España,43.29548,-2.9900933,Spain
+Corpus Christi,United States of America,27.7477253,-97.4014129,United States of America
+Quebec City,Canada,46.8259601,-71.2352226,Canada
+Rijswijk,Nederland,52.03739335,4.322502837527406,Netherlands
+Valladolid,España,41.6521328,-4.728562,Spain
+Drammen,Norge,59.7436749,10.2043749,Norway
+Surabaya,Indonesia,-7.2459717,112.7378266,Indonesia
+Otsu,日本 (Japan),35.0047096,135.8686739,Japan
+Bagnolet,France,48.8688199,2.4173658,France
+Phnom Penh,Cambodia,11.5730391,104.857807,Cambodia
+Taichung,Taiwan,24.163162,120.6478282,China
+Seto,日本 (Japan),35.240984,137.116187,Japan
+Cheonan,대한민국,36.8150283,127.1140654,South Korea
+Changchun,China 中国,43.8130735,125.3171216,China
+Amarillo,United States of America,35.2072185,-101.8338246,United States of America
+Columbia,Colombia,2.8894434,-73.783892,Colombia
+Allentown,United States of America,40.6022059,-75.4712794,United States of America
+Ufa,Deutschland,52.38706125,13.122811699203996,Germany
+Duisburg,Deutschland,51.434999,6.759562,Germany
+Medellín,Colombia,6.2443382,-75.573553,Colombia
+Piraeus,Ελλάδα,37.9431594,23.6470593,Greece
+Long Beach,United States of America,33.7690164,-118.1916048,United States of America
+Cali,Colombia,3.4517923,-76.5324943,Colombia
+Kuala Terengganu,Malaysia,5.3297015,103.138313,Malaysia
